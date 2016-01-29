@@ -8,7 +8,7 @@ public class Addition {
 
     public void add(int no1,int no2)
     {
-        System.out.println(no1+no2);
+    system.out.println(null);
     }
 
     public static void main(String args[])
